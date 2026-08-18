@@ -117,7 +117,7 @@ python evaluate_hybrid.py   # hybrid, with baseline printed for comparison
 python rag.py               # interactive
 ```
 
-Place the source PDF in `data/`.
+Download the National Planning Policy Framework from gov.uk and save it as `data/National_Planning_Policy_Framework.pdf`. The PDF is not committed to this repo.
 
 ---
 
